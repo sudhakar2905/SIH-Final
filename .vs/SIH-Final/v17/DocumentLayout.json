@@ -1,32 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\",
+  "WorkspaceRootPath": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\assets\\scripts\\tutorial manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorial manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|c:\\users\\sudha\\desktop\\sih-software\\sih-final\\assets\\scripts\\infrastructureselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructureselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\assets\\scripts\\assetplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assetplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\assets\\scripts\\createandjoinrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|c:\\users\\sudha\\desktop\\misc\\sih-software\\sih-final\\assets\\scripts\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\assets\\scripts\\connecttoserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\connecttoserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\assets\\scripts\\tutorial manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorial manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\assets\\scripts\\infrastructureselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructureselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\assets\\scripts\\assetplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assetplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\assets\\scripts\\createandjoinrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createandjoinrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-GameFramework\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\assets\\scenes\\terraingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\assets\\scenes\\terraingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16972052-8599-3A23-EFDA-62BAEEEAB1A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\terraingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,40 +45,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InfrastructureSelector.cs",
-              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\InfrastructureSelector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InfrastructureSelector.cs",
-              "ToolTip": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\InfrastructureSelector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InfrastructureSelector.cs",
-              "ViewState": "AQIAAJcAAAAAAAAAAAAkwLQAAAAAAAAA",
+              "Title": "CameraControl.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\CameraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraControl.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\CameraControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraControl.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:36:51.321Z",
+              "WhenOpened": "2024-09-29T19:21:34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
-              "ToolTip": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA6AAAA",
+              "DocumentIndex": 2,
+              "Title": "ConnectToServer.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\ConnectToServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConnectToServer.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\ConnectToServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConnectToServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:01:51.091Z"
+              "WhenOpened": "2024-09-29T19:20:36.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "InfrastructureSelector.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\InfrastructureSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InfrastructureSelector.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\InfrastructureSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InfrastructureSelector.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAkwLQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:36:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:01:51.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CreateAndJoinRooms.cs",
-              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\CreateAndJoinRooms.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\CreateAndJoinRooms.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CreateAndJoinRooms.cs",
-              "ToolTip": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\CreateAndJoinRooms.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\CreateAndJoinRooms.cs",
               "RelativeToolTip": "Assets\\Scripts\\CreateAndJoinRooms.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,23 +111,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PhotonNetwork.cs",
               "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-GameFramework\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
-              "RelativeDocumentMoniker": "..\\SIH-GameFramework\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SIH-Software\\SIH-GameFramework\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
               "ToolTip": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-GameFramework\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
-              "RelativeToolTip": "..\\SIH-GameFramework\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
+              "RelativeToolTip": "..\\..\\..\\SIH-Software\\SIH-GameFramework\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetwork.cs",
               "ViewState": "AQIAAAwMAAAAAAAAAAAowCYMAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T05:47:33.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AssetPlacer.cs",
-              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\AssetPlacer.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\AssetPlacer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AssetPlacer.cs",
-              "ToolTip": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\AssetPlacer.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\AssetPlacer.cs",
               "RelativeToolTip": "Assets\\Scripts\\AssetPlacer.cs",
               "ViewState": "AQIAAIIAAAAAAAAAAAAowKIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,24 +135,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Tutorial Manager.cs",
-              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\Tutorial Manager.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\Tutorial Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tutorial Manager.cs",
-              "ToolTip": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scripts\\Tutorial Manager.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scripts\\Tutorial Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Tutorial Manager.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAmwJMAAAAAAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAQwFwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T02:09:52.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T02:09:52.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TerrainGroup.cs",
-              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scenes\\TerrainGroup.cs",
+              "DocumentMoniker": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scenes\\TerrainGroup.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\TerrainGroup.cs",
-              "ToolTip": "C:\\Users\\sudha\\Desktop\\SIH-Software\\SIH-Final\\Assets\\Scenes\\TerrainGroup.cs",
+              "ToolTip": "C:\\Users\\sudha\\Desktop\\misc\\SIH-Software\\SIH-Final\\Assets\\Scenes\\TerrainGroup.cs",
               "RelativeToolTip": "Assets\\Scenes\\TerrainGroup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
